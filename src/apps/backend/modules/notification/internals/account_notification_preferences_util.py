@@ -1,5 +1,4 @@
 from typing import Any
-
 from modules.notification.internals.store.account_notification_preferences_model import (
     AccountNotificationPreferencesModel,
 )
